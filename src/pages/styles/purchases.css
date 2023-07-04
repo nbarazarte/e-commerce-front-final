@@ -1,0 +1,14 @@
+
+.purchases__container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: calc(var(--heightHeader) + 3em);
+    overflow-x: scroll;
+}
+
+.purchases__title {
+    padding-bottom: 1em; 
+    margin: auto;
+}
